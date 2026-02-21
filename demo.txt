@@ -2,3 +2,4 @@ My first DevOps repo
 third line
 fourth line from khalid
 payment feature updated in main
+payment feature added parent of 1ea60a1 (Resolved merge conflict)
