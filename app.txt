@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Login feature added
 login bug fixed in release
 Critical security fix applied
 
+=======
+payment feature added
+>>>>>>> 97d0825 (added payment feature)
