@@ -1,2 +1,4 @@
 Login feature added
 login bug fixed in release
+Critical security fix applied
+
