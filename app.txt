@@ -1,2 +1,3 @@
 Login feature added
 login bug fixed in release
+payment module completely re written
