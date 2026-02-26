@@ -13,3 +13,4 @@ HOTFIX:payment calculation corrected
 7d3089c (Hotfix: payment calculation fix)
 git rebase --continue
 
+New feature change 2
