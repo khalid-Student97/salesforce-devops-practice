@@ -7,5 +7,5 @@ public class DevOpsDemoTest {
 DevOpsDemo.getMessage();
         system.assertEquals('DevOps pipeline Success', result);
     }
-}        
-    
+}
+
