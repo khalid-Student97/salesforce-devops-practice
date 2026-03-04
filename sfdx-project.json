@@ -5,7 +5,11 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "khalid-devops",
+=======
+  "name": "sf-devops-new",
+>>>>>>> 9c038a3 (Initial DevOps setup)
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "65.0"
