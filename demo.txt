@@ -1,0 +1,15 @@
+My first DevOps repo
+third line
+fourth line from khalid
+HEAD
+payment feature updated in main
+ HEAD
+payment feature added parent of 1ea60a1 (Resolved merge conflict)
+HOTFIX:payment calculation corrected
+7d3089c (Hotfix: payment calculation fix)
+payment feature added
+acb8993 (Added payment feature)
+HOTFIX:payment calculation corrected
+7d3089c (Hotfix: payment calculation fix)
+git rebase --continue
+
