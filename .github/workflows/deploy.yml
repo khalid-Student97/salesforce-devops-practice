@@ -16,12 +16,11 @@ jobs:
       - name: Install Salesforce CLI
         run: npm install sfdx-cli --global
 
-      - name: Deploy to Salesforce
-        run:  |
-          sfdx force:source:deploy -p force-app 
-        
-      
+      - name: Check Salesforce CLI Version
         run: sfdx --version
+
+      - name: Deploy to Salesforce
+        run: sfdx force:source:deploy -p force-app
 
       - name: Success Message
         run: echo "Salesforce CI Pipeline Working"
