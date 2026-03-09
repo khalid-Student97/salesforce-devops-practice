@@ -20,6 +20,8 @@ jobs:
         run: sfdx --version
 
       - name: Deploy to Salesforce
+        run:sfdx force:source:deploy -p force-app
+      
         run: sfdx force:source:deploy -p force-app
 
       - name: Success Message
