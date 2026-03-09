@@ -1,0 +1,27 @@
+name: Salesforce Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Salesforce CLI
+        run: npm install sfdx-cli --global
+
+      - name: Deploy to Salesforce
+        run:  |
+          sfdx force:source:deploy -p force-app 
+        
+      
+        run: sfdx --version
+
+      - name: Success Message
+        run: echo "Salesforce CI Pipeline Working"
