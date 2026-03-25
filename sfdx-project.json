@@ -1,10 +1,17 @@
-{
+
+5f7a5e182b113b80ac07c8f4a1b0b56f606ef59f{
   "packageDirectories": [
     {
       "path": "force-app",
       "default": true
     }
   ],
+<<<<<<< HEAD
+  "name": "sf-devops-new",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "60.0"
+=======
 <<<<<<< HEAD
   "name": "khalid-devops",
 =======
@@ -13,4 +20,5 @@
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "65.0"
+>>>>>>> 6b3507dafaf0e954551718465c7147611bf9b38f
 }
