@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 9c038a3 (Initial DevOps setup)
+ 9c038a3 (Initial DevOps setup)
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
@@ -16,13 +13,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Read All About It
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
+- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/) test
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
-<<<<<<< HEAD
-=======
-# salesforce-devops-practice
->>>>>>> 3ddde2b497cf7c0a18a6bbb02218877ba72f7279
-=======
->>>>>>> 9c038a3 (Initial DevOps setup)
+# salesforce-devops-practice 3ddde2b497cf7c0a18a6bbb02218877ba72f7279 9c038a3 (Initial DevOps setup)
