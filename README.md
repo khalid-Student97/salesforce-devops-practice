@@ -1,5 +1,5 @@
  9c038a3  (Initial DevOps setup)
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Next  Steps
 
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
